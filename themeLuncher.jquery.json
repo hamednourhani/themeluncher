@@ -1,0 +1,27 @@
+{
+  "name": "themeLuncher",
+  "title": "Themeluncher",
+  "description": "helper jquery plugin for theme luncher",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hamendourhani/themeluncher",
+  "author": {
+    "name": "hamednourhani",
+    "email": "info@itstar.ir",
+    "url": "itstar.ir"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hamednourhani/themelincher.git"
+  },
+  "bugs": "https://github.com/hamednourhani/themeluncher/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hamendourhani/themeluncher/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
